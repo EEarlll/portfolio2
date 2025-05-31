@@ -111,7 +111,7 @@ const Work = () => {
                   }`}
                 >
                   <Cards
-                    img_src={project.img_src}
+                    img_src={"portfolio2/" + project.img_src}
                     caption={project.caption}
                     project={project.project}
                     num={rowNum++}
