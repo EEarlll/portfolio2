@@ -38,12 +38,12 @@ This portfolio web app is designed to showcase your skills, projects, and experi
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/EEarlll/Portfolio.git
+git clone https://github.com/EEarlll/portfolio2.git
 ```
 
 Navigate to the project directory:
 ``` bash
-cd Portfolio
+cd Portfolio2
 ```
 
 Install the dependencies:
@@ -59,7 +59,7 @@ Start the development server:
 npm run dev
 ```
 Open your browser and navigate to http://localhost:3000 to view the portfolio web app.
-Or check out the live demo of the webapp at [https://eearlll.github.io/](https://eearlll.github.io/).
+Or check out the live demo of the webapp at [https://eearlll.github.io/portfolio2](https://eearlll.github.io/portfolio2).
 
 ## Customization
 Customize the content, colors, and styles to match your personal preferences and professional details. Update the src/data directory with your information.
